@@ -1,0 +1,18 @@
+.form_group{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.form_label{
+    width: 150px;
+}
+
+.container{
+    max-width: 800px;
+}
+
+#background_addUser{
+    height: 100vh;
+    padding-top: 30px;
+}

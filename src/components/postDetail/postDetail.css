@@ -1,0 +1,13 @@
+#author_img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgb(135, 135, 135);
+}
+
+#postDaetail_img{
+    max-height: 400px;
+    object-fit: cover;
+    width: 100%;
+}
